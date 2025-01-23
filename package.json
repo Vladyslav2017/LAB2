@@ -1,0 +1,10 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "Лабораторна робота 2",
+  "keywords": ["python", "lab2", "програмування"],
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
